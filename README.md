@@ -2,10 +2,10 @@
 
 ### This file contain below topic
 
-* Type-ncoercion
+* Type-coercion
 * Interpretation
 * code execution
 
-# How to run
+## How to run
 
 * Open file in vscode and click on play button
